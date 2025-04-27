@@ -24,7 +24,7 @@ This project uses the classic **Iris dataset**, which includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/iris-data-explorer.git
+   git clone https://github.com/CyberOwaisShah/iris-data-explorer.git
    cd iris-data-explorer
 # interactive-iris
 Visualization of iris data
