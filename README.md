@@ -37,7 +37,7 @@ This project is open-source and available under the MIT License.
 
 🙌 Acknowledgments
 Scikit-learn's Iris Dataset
-
-Plotly Express Documentation
+# note
+If the plot is not showing directly, simply download it 
 # for more information, contact:
 owais.ali.shah.econ@gmail.com
